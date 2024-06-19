@@ -14,7 +14,7 @@ A simple Rock, Paper, Scissors game implemented using HTML, CSS, and JavaScript.
 
 ## Demo
 
-You can try out the game [here]().
+You can try out the game [here](https://nitesh4b.github.io/Stone_Paper_Scissors/).
 
 ## Features
 
